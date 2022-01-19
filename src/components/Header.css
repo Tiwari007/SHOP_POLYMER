@@ -1,0 +1,49 @@
+.site-page-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  img{
+      width: 100%;
+      height: auto;
+  }
+
+  a.nav-link{
+      color:black;
+      font-size: 13px;
+  }
+
+  .nav{
+      margin-bottom:20px;
+  }
+
+  h3{
+      margin-top: 30px;
+      margin-bottom: 30px;
+      font-size: 17px;
+      font-weight: 400;
+  }
+
+  button{
+    border: 2px solid #000;
+    background-color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 8px 44px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+  }
+
+  p{
+      font-size: 13px;
+      margin-top: 20px;
+  }
+
+  .detail {
+    margin: 64px 32px;
+    width: 50%;
+    max-width: 400px;
+}
